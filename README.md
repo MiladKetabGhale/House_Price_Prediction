@@ -1,5 +1,8 @@
 # Housing Price Prediction System Documentation
 
+Welcome to the repository for the **Hous Price Prediction Project**, part of a larger portfolio showcasing skills in **machine learning engineering**, **data science**, and **data engineering**. 
+For an overview of all projects in the portfolio, visit the [Engineering, Analysis, Data Science, and Machine Learning Portfolio](https://github.com/MiladKetabGhale/EngineeringAnalysisData_ML).
+
 ## Project Overview
 
 This project is a modular, end-to-end pipeline system designed for predicting house prices based on various input features. It automates data ingestion, processing, machine learning model training, evaluation, and results saving. The system is configurable through a YAML file, allowing users to specify data paths, models, evaluation metrics, and more. The project follows best practices with modularity, separation of concerns, error handling, and CI/CD integration (in progress).
